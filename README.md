@@ -1,5 +1,5 @@
 # Spline
-Mini Keyboard (https://my.spline.design/untitled-04dd3aa05cfcad31dfa226cbc1913dda/)
+Mini Keyboard (https://my.spline.design/minikeyboardcopy-d1f37fff74f9d5e132ceebc2499b284a/)
 
 Toggle Button (https://my.spline.design/togglebutton-b16eabeb104b5c4712b87b0d54eddc15/)
 
